@@ -1,6 +1,6 @@
 # Cryto-tattoo 서비스 front단 코드입니다
 
-[cyptoTatoo](https://project-deploy-opazknmc6-mi-gongan.vercel.app/)
+[cyptoTatoo ](https://project-deploy-opazknmc6-mi-gongan.vercel.app/)
 
 ## 사용기술
 
